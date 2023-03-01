@@ -21,12 +21,12 @@ Esto es un ~~texto~~
 
 `Hola` a todos/as, ¿`qué` tal estáis? <!--Si ponemos, al lado de la P, las comillas, se pone en cursiva-->
 
-``` java 
+``` .java 
 public main() {
 
 }
 ```
-```css
+```.css
 body {
     background-color: #FFF;
 }
