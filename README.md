@@ -13,7 +13,6 @@ Esto es un $texto$
 Esto es un ~~texto~~
 
 > Esto texto mola.
-
 > Y este también.
 
 - [ ] Uno
@@ -30,6 +29,10 @@ public main() {
 ```css
 body {
     background-color: #FFF;
+}
+img {
+    width: 200px;
+    border: 1px solid red;
 }
 ```
 <!--Si pongo, con las comillas anteriores, dos líneas de 3, se crea un bloque de contenido. Si al lado ponemos java, html, css... se colorea con sus colores-->
@@ -64,5 +67,4 @@ fd|gd|43
 1. tres
 
 [Pincha aquí](enlace.md)
-
 [Google](https://www.google.es)
