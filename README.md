@@ -16,8 +16,8 @@ Esto es un ~~texto~~
 
 > Y este también.
 
-- [] Uno
-- [] Dos
+- [ ] Uno
+- [ ] Dos
 - [x] Tres
 
 `Hola` a todos/as, ¿`qué` tal estáis? <!--Si ponemos, al lado de la P, las comillas, se pone en cursiva-->
@@ -39,9 +39,9 @@ body {
 |54|656|767|
 fd|gd|43
 
-![](/Unidad%202/Visual%20Studio%20Code/Lenguaje%20de%20Marcas%20Tema%202/GIT/img/Gohan%20SS2.jpg)
+![JesúsCruz](Gohan%20SS2.jpg)
 
-<img src="Unidad 2\Visual Studio Code\Lenguaje de Marcas Tema 2\GIT\img\Gohan SS2.jpg" width="200" height="100">
+<img src="Gohan SS2.jpg" width="200" height="200">
 
 
 #### **Lista desordenada**
