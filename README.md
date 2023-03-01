@@ -44,7 +44,7 @@ fd|gd|43
 
 ![JesúsCruz](Gohan%20SS2.jpg)
 
-<img src="Gohan SS2.jpg" width="200" height="200">
+<img src="Gohan SS2.jpg" width="200" height="300">
 
 
 #### **Lista desordenada**
