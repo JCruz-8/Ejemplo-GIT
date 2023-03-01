@@ -2,5 +2,5 @@
 
 Esto es un **texto**
 
-Otro texto
+Otro texto.
 
