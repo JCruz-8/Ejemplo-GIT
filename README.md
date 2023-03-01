@@ -2,4 +2,5 @@
 
 Esto es un **texto**
 
-![](Gohan SS2)
+Otro texto
+
